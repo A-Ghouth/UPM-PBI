@@ -39,6 +39,7 @@ Here are a few snapshots from the dashboards I’ve built:
 <img width="1796" height="1012" alt="Dashboard" src="https://github.com/user-attachments/assets/2162fcc1-1ef9-4f23-821d-632eb9873952" />
 <img width="1799" height="1014" alt="Dashboard" src="https://github.com/user-attachments/assets/b9780737-8929-49dc-8cf1-7d07fba1183c" />
 <img width="2302" height="1275" alt="Dashboard" src="https://github.com/user-attachments/assets/97f7a9f5-89df-4906-9d69-55bc05a25bfa" />
+<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/7c6cd730-6c48-4f80-b6cd-51e034451c74" />
 
 ---
 
