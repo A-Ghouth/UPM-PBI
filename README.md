@@ -21,17 +21,7 @@ These dashboards are built to provide actionable insights through interactive an
 
 ## 🖼️ Screenshots & Visuals
 
-*(Add your images/screenshots here to give a preview of your dashboards)*
 
-### Example:
-![Budget Dashboard](images/budget_dashboard.png)
-*Description of the dashboard*
-
-### Example:
-![Regional Demand Map](images/regional_demand_map.png)
-*Description of the regional demand visualization*
-
-*(Repeat as needed)*
 
 ---
 
@@ -41,11 +31,3 @@ These dashboards are built to provide actionable insights through interactive an
 - Data visualization libraries (e.g., Chart.js, D3.js, Bing Maps API)
 - Geographic data visualization (OpenStreetMap, Bing Maps)
 - Data analysis tools
-
----
-
-## 🚀 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/university-career-analytics.git
